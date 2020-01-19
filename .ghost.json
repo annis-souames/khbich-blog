@@ -4,7 +4,8 @@
     "contentApiKey": "3d307633ba90f0921c1511bdf5"
   },
   "production": {
-    "apiUrl": "https://khbich-blog.herokuapp.com/ghost",
-    "contentApiKey": "3d307633ba90f0921c1511bdf5"
+    "apiUrl": "https://khbich-blog.herokuapp.com",
+    "contentApiKey": "3d307633ba90f0921c1511bdf5",
+    "version":"v2"
   }
 }
